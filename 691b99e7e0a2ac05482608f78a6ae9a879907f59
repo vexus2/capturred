@@ -5,3 +5,5 @@
 {"timestamp":"1450062319","reviewRef":"refs/heads/test_pr","targetRef":"refs/heads/master","requester":"rinrin900@gmail.com","description":"modified rails to 4.2.4 from 4.2.0","baseCommit":"4674b4385cf2574b8bc37a1ce5915422ef1036b5"}
 
 {"timestamp":"1450062699","reviewRef":"refs/heads/test_pr","targetRef":"refs/heads/master","requester":"rinrin900@gmail.com","description":"modified rails to 4.2.4 from 4.2.0","baseCommit":"4674b4385cf2574b8bc37a1ce5915422ef1036b5"}
+
+{"timestamp":"1450062702","reviewRef":"refs/heads/test_pr","targetRef":"refs/heads/master","requester":"rinrin900@gmail.com","description":"modified rails to 4.2.4 from 4.2.0","baseCommit":"4674b4385cf2574b8bc37a1ce5915422ef1036b5"}
